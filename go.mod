@@ -1,4 +1,4 @@
-module github.com/AverageStardust/wii-stream
+module github.com/AverageStardust/board-2-xbox
 
 go 1.27.0
 
